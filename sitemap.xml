@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3000/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/menu</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/diagnostico</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/historial</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/riesgo</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/asistente</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/recordatorio</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/recomendaciones</loc>
+  </url>
+</urlset>
